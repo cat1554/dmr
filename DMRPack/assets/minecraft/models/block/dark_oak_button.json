@@ -1,0 +1,6 @@
+{
+    "parent": "block/button_barrier",
+    "textures": {
+        "texture": "block/dark_oak_planks"
+    }
+}

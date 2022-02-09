@@ -1,0 +1,13 @@
+To use the extensions, simply copy or move the .zip for 
+the extension you want to use and put in the 
+Minecraft resourcepacks folder like a normal pack. 
+
+Make sure the extensions are above the full pack 
+in the in-game settings resource list.
+
+Extensions included in this pack:
+  - Zero Hour: Moves 00:00 to dawn (/time set 0)
+
+**** SOURCE: https://www.planetminecraft.com/texture_pack/multiclock/
+Resource pack "MultiClock" developed by Quazillionaire
+Retrieved for the use of map "Republic of FlashTeens" on 2018-04-11

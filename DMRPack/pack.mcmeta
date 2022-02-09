@@ -1,0 +1,16 @@
+
+
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "Thank you for downloading DMR."
+   },
+   "language": {
+      "en_us": {
+         "name": "English",
+         "region": "US of A",
+         "bidirectional": false
+      }
+   }
+}
+

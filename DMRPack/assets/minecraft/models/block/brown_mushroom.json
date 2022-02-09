@@ -1,0 +1,6 @@
+{
+    "parent": "block/flatmush",
+    "textures": {
+        "cross": "block/brown_mushroom"
+    }
+}

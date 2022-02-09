@@ -1,0 +1,80 @@
+Ceci n'est pas une title screen!
+20 GOTO 10
+Ni~co nico douga!
+"Is this a title screen?"
+このスプラッシュテキストはユニークです
+[SPLASH_TEXT]
+I will splash you if you don't click play
+<IT'S FREE!>
+Hates the PACER test!
+Axolotls are cute!
+Axolotls not included... yet.
+Potato
+How many trains are there again?
+15 cars!
+splashes.txt
+Join the Discord!
+Can't connect to server.
+Spigot+!
+Better than Hypixel!
+Line 21 holds captions!
+YATTA!
+Includes Terebi-chan!
+Not up-to-date all the time!
+Hosted from Chicago, Illinois!
+Powered by the Dell PowerEdge T110!
+Est. 2019!
+iDot!
+Virtual-Boy free!
+Not played by CarlSagan42!
+乙!
+Not on Realms!
+ドアが閉まります! ご注意ください！
+Includes FREE access to the EAS system!
+Wot
+I'm tired of dying!
+If [true] then [play minecraft]
+MacOS compatible!
+New game, damnit.
+Hoo~ray!
+Is surprisingly simple!
+No ouching spikes here!
+F
+JR rail included!
+Welcome to the club, boi!
+I think this text is very hard to see at the default resolution.
+kekd
+Lol wut?
+ 
+<p>Yeet</p>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL FILL
+S T O P ! ! ! ! ! !
+h
+Dingus
+Geir
+S w i f f e r
+Java edition
+Javerr edderterrn
+Do you are have stupid?
+C e r n
+
+🤔Thonk🤔
+「Give me the IP!」- That pumpkin guy, 2020
+youtu.be/fC7oUOUEEi4
+youtu.be/dQw4w9WgXcQ
+69
+Ew
+Oof
+Metro: PAY NOW
+Hello moto
+Microshit Windhoes
+Disks of compactness exist here!
+Yes
+No
+Now on wishwell.com!
+Now on worsh.com!
+Not command block boobs!
+jfgmbkisnhvkgjiufhdeasfnjb iu89gsfhewnkjvgbkiuhaafdvioguhbnewmafjvuibhedjfgvbn
+Sextant
+Don't run sudo dtrace -w -n "BEGIN{ panic();}"!!

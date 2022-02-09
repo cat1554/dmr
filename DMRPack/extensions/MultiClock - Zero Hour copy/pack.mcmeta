@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "MultiClock extension: Moves 00:00 to dawn (/time set 0)"
+  }
+}
