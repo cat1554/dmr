@@ -57,7 +57,6 @@ else:
     time.sleep(100)
     sys.exit
 
-latest = "1"
 if installupdate == "yes" or installupdate == "y":
     os.chdir("..")
     print("Dowloading Zip...")
