@@ -3,6 +3,7 @@
 "ftmc.subway.alert_b": {"sounds": ["custom/ftmc/subway/alertb"], "stream": true},
 "eas.shutdown": {"sounds": ["custom/cat/eas/shit_we_gonna_cease"], "replace": true, "preload": true},
 "entity.player.task.start": {"sounds": ["custom/cat/task/start"], "replace": true, "preload": true},
+"entity.player.task.fail": {"sounds": ["custom/cat/task/bruh"], "replace": true, "preload": true},
 "entity.player.task.complete": {"sounds": ["custom/cat/task/end"], "replace": true, "preload": true},
 "block.note.harp": {"sounds": ["note/harp"], "replace": true, "preload": true},
 "block.note.harp_8va": {"sounds": ["note/harp_8va"], "preload": true},
