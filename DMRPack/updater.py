@@ -28,7 +28,7 @@ try:
     versionfile = open("version","r")
     version = versionfile.read()
 except FileNotFoundError: # except incorrect file 
-    print("FATAL : Could not find version File. Please check Pack Directory\nTerminating in 15 Seconds")
+    print("FUCK: Could not find version file. Check pack directory\nTerminating in 15 Seconds")
     time.sleep(15)
     sys.exit(0)
     
