@@ -274,6 +274,7 @@
 "entity.player.secret.find": {"sounds": ["custom/cat/customsound/himitsu"]},
 "metro.warn": {"sounds": ["custom/cat/metro/attention"]},
 "metro.cross": {"sounds": ["custom/cat/metro/alarm"]},
+"metro.crossing": {"sounds": ["custom/cat/metro/crossalarm"]},
 "metro.close": {"sounds": ["custom/cat/metro/doorcls"]},
 "commuter.close": {"sounds": ["custom/cat/metro/commuterclose"]},
 "pb5.wait": {"sounds": ["custom/cat/customsound/pb5_wait"]},
