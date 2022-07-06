@@ -1,6 +1,9 @@
 # DMR Pack
 
 This is a minecraft texture pack
+## IMPORTANT NOTE
+The updater has been updated and the old one (v1.4.0 And Under) no longer works
+Please download the new updater from the "Installer" Releasse
 
 ## Install 
 You can either download the latest package Or use the updater (https://github.com/cat1554/dmr/releases/download/Updater/Updater.zip).
