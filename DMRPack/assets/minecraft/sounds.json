@@ -1,4 +1,7 @@
 {
+"metro.venture.wait": {"sounds": ["custom/cat/metro/venture-wait"]},
+"metro.venture.stop": {"sounds": ["custom/cat/metro/venture-stop"]},
+"metro.venture.go": {"sounds": ["custom/cat/metro/venture-go"]},
 "ftmc.subway.alert_a": {"sounds": ["custom/ftmc/subway/alerta"], "stream": true},
 "ftmc.subway.alert_b": {"sounds": ["custom/ftmc/subway/alertb"], "stream": true},
 "eas.shutdown": {"sounds": ["custom/cat/eas/shit_we_gonna_cease"], "replace": true, "preload": true},
