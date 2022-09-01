@@ -28,5 +28,8 @@
                 "east":  { "uv": [ 7, 6, 9, 16 ], "texture": "#lever" }
             }
         }
+    ],
+    "overrides": [
+{ "predicate": { "custom_model_data": 1}, "model": "block/custom/lever_on"}
     ]
 }

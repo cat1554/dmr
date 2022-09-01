@@ -1,8 +1,11 @@
 {
     "parent": "block/stairs",
     "textures": {
-        "bottom": "block/blue_wool",
-        "top": "block/blue_wool",
-        "side": "block/blue_wool"
-    }
+        "bottom": "block/acacia_planks",
+        "top": "block/acacia_planks",
+        "side": "block/acacia_planks"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 1}, "model": "block/custom/acacia_stairs"}
+    ]
 }
