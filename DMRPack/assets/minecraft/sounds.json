@@ -3442,15 +3442,15 @@
   "entity.cat.hiss": {
     "sounds": [
       {
-        "name": "mob/cat/hiss1",
+        "name": "mob/cat/hiss",
         "volume": 0.4
       },
       {
-        "name": "mob/cat/hiss2",
+        "name": "mob/cat/hiss",
         "volume": 0.4
       },
       {
-        "name": "mob/cat/hiss3",
+        "name": "mob/cat/hiss",
         "volume": 0.4
       }
     ]
