@@ -1,6 +1,0 @@
-{
-    "parent": "block/oreblock",
-    "textures": {
-        "all": "block/redstone_ore"
-    }
-}

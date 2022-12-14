@@ -1,16 +1,6 @@
-
-
 {
-   "pack": {
-      "pack_format": 5,
-      "description": "Thank you for downloading Totally Legit Texturepack."
-   },
-   "language": {
-      "en_us": {
-         "name": "English",
-         "region": "A the US of the A",
-         "bidirectional": false
-      }
-   }
+  "pack": {
+    "pack_format": 6,
+    "description": "The most legit texturepack you've ever used"
+  }
 }
-

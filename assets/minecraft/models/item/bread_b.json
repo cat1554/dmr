@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/dynajob/pizza/crust",
-        "layer1": "item/dynajob/pizza/cheese"
-    }
-}

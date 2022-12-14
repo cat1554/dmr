@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/shit/stone_bricks" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/stone_bricks"
     }
+  }
 }

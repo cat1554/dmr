@@ -1,15 +1,8 @@
 {
-"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
-"__comment":"OK",
-
-"parent": "block/generic_furnace",
-
-"textures": {
-	"top": 		"block/furnace_top",
-	"front": 	"block/furnace_front",
-	"side": 	"block/furnace_side",
-	"inside": 	"block/coal_block",
-	"coal": 	"block/coal_block",
-	"particle":	"block/furnace_front"
-    }
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/furnace_top",
+    "front": "minecraft:block/furnace_front_on",
+    "side": "minecraft:block/furnace_side"
+  }
 }

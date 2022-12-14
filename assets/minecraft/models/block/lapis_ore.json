@@ -1,6 +1,6 @@
 {
-    "parent": "block/oreblock",
-    "textures": {
-        "all": "block/lapis_ore"
-    }
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/lapis_ore"
+  }
 }

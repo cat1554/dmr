@@ -1,11 +1,8 @@
 {
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "block/acacia_planks",
-        "top": "block/acacia_planks",
-        "side": "block/acacia_planks"
-    },
-    "overrides": [
-{ "predicate": { "custom_model_data": 1}, "model": "block/custom/acacia_slab"}
-    ]
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/acacia_planks",
+    "top": "minecraft:block/acacia_planks",
+    "side": "minecraft:block/acacia_planks"
+  }
 }
